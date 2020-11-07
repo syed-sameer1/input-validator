@@ -3,7 +3,7 @@ function validate(input, type){
     
     switch(type) {
 
-        case 'name', 'text':
+        case 'text':
 
             var letters_regex = /^[A-Za-z\s]+$/;
 
