@@ -1,5 +1,5 @@
 function validate(input, type){
-    let input_val = $(input).val();
+    let input_val = document.querySelector(input).value
     
     switch(type) {
 
