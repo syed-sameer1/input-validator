@@ -64,6 +64,12 @@ there are **5** type of validation
 
 ## Example
 
+### HTML
+
+```html
+<input id="input_id" type="text">
+```
+### javascript
 ```javascript 
 let is_valid_name = validator('#input_id', 'text');
 
@@ -77,3 +83,4 @@ if(is_valid_name){
 
 }
 ```
+**Note :-** *HTML* input tag's attribute `type` value `text` and validator function parameter `type` value `text` is note must be same.
