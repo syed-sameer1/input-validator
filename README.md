@@ -83,4 +83,4 @@ if(is_valid_name){
 
 }
 ```
-**Note :-** *HTML* input tag's attribute `type`'s value `text` and validator function parameter `type`'s value `text` is note must be same.
+**Note :-** *HTML* input tag's attribute `type`'s value `text` and validator function parameter `type`'s value `text` is not must be same.
