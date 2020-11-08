@@ -42,21 +42,21 @@ there are **5** type of validation
 **email**
 
 - if input is empty
-- if the first number is whitespace
-- if last number is whitespace
+- if the first letter is whitespace
+- if last letter is whitespace
 - if email format is not correct
 
 **address**
 
 - if input is empty
-- if the first number is whitespace
-- if last number is whitespace
+- if the first letter is whitespace
+- if last letter is whitespace
 
 **comment**
 
 - if input is empty
-- if the first number is whitespace
-- if last number is whitespace
+- if the first letter is whitespace
+- if last letter is whitespace
 
 *In all of these cases, It will return* `false`
 
