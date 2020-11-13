@@ -99,7 +99,8 @@ function validate(input, type){
 
         break;
 
-        case 'comment', 'address':
+        case 'comment':
+        case 'address':
             
             // check for input null value
             if(input_val == ''){
