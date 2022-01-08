@@ -71,7 +71,7 @@ there are **5** type of validation
 ```
 ### javascript
 ```javascript 
-let is_valid_name = validator('#input_id', 'text');
+let is_valid_name = validate('#input_id', 'text');
 
 if(is_valid_name){
 
